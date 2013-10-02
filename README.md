@@ -1,4 +1,4 @@
 Sample-Game
 ===========
 
-Sample input files to be used as a reference
+These are the samples we worked out during our meeting. We'll tweak these as we go.

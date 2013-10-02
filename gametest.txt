@@ -1,0 +1,13 @@
+(0,0)
+{WALL,WALL,WALL,NULL}
+text="You find yourself somewhere. You see a rock on the ground"
+choices={"Pick up the rock"}
+actions={PICKUP rock1}
+items={rock1}
+(1,0)
+{WALL,NULL,WALL,window1}
+text="You see a window"
+choices={"Throw the rock}
+actions={USE rock1 ON window1}
+(2,0)
+text="You win!"

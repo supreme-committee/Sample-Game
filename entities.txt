@@ -1,0 +1,3 @@
+$window1
+state=CLOSED
+rock1=("You broke window", OPEN)
