@@ -1,0 +1,6 @@
+You find yourself in a place.
+<<if $haveRock = False>>
+You see a rock on the ground.
+[[Pick up the rock.txt]]
+<<endif>>
+[[Move forward.txt]]
