@@ -1,6 +1,0 @@
-You see a window.
-<<if $haveRock = True>>
-[[Throw rock at window.txt]]
-<<else>>
-[[Step forward.txt]]
-<<endif>>

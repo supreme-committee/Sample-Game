@@ -1,3 +1,0 @@
-You picked up the rock.
-<<set $haveRock = True>>
-[[Step forward.txt]]
